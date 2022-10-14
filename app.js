@@ -197,8 +197,8 @@ joe.scopeArrow();
 
 // TODO: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
-//  this refers to the student object.
+//    this refers to the student object.
 // 2. What is "this" when joe.scopeArrow() is invoked?
-//  this refers to scopeArrow
+//    this refers to scopeArrow
 // 3. Explain why "this" is different when an arrow function is used.
-//  this when used with an arrow refers to the object that defined the arrow function, a regular function refers to the object that called the function.
+//    this when used with an arrow refers to the object that defined the arrow function, a regular function refers to the object that called the function.
